@@ -1,5 +1,10 @@
-# Object file
-*.o
+*.h5
+*.jpg
+*.zip
+*.ipynb_checkpoints
+__pycache__/
+assets/
+oxford_flowers102/
+test_images
 
-# Ada Library Information
-*.ali
+
