@@ -1,7 +1,11 @@
+# common files to be excluded
 *.h5
 *.jpg
 *.zip
 *.ipynb_checkpoints
+*.csv
+
+# image_classifier
 __pycache__/
 assets/
 oxford_flowers102/
