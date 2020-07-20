@@ -1,1 +1,1 @@
-# udacity_projects
+# Learning projects for ML & DL
