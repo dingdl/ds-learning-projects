@@ -1,4 +1,6 @@
 # My data science learning projects
 
-This repo contains all the learning projects that I have been doing for data science. These projects involve classfication, clustering, regression based on machine learning techniques. 
+This repo contains all the projects that I have done to improve my data science skills. Most of them are the course projects from my Udacity programs.
+
+
 
