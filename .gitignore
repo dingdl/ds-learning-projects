@@ -11,4 +11,7 @@ assets/
 oxford_flowers102/
 test_images
 
-
+# dog-classfication
+lfw/
+dogImages/
+*.pt
