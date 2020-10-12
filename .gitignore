@@ -4,6 +4,8 @@
 *.zip
 *.ipynb_checkpoints
 *.csv
+*.idea
+*.txt
 
 # image_classifier
 __pycache__/
