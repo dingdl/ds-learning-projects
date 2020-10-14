@@ -12,4 +12,5 @@ This repo contains all the projects that I have done to improve my data science 
 - [Syllabus]()
 - [Certificate]()
 - Projects
-  - [Dog Breed Classification](https://github.com/dingdl/ds-learning-projects/tree/master/04-dog-breed-classification): 
+  - [Bike-Sharing Pattern Prediction](https://github.com/dingdl/ds-learning-projects/tree/master/04-bikesharing-pattern-prediction)
+  - [Dog Breed Classification](https://github.com/dingdl/ds-learning-projects/tree/master/05-dog-breed-classification): 
